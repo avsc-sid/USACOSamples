@@ -1,1 +1,2 @@
-These are US Computing Olympiad's prior sample problem I worked and my code.
+# USACOSamples
+These are USACO problems from past contests I worked on and completed.
