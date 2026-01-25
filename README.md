@@ -1,4 +1,4 @@
-# USACOSamples
+# Past USACOSamples - My Code
 These are USACO problems from past contests I worked on and completed.
 
 # Silver Level Contests (C++ Solutions)
