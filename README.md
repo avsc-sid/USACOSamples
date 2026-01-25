@@ -1,8 +1,8 @@
 # USACOSamples
 These are USACO problems from past contests I worked on and completed.
 
-**Silver Level Contests (C++ Solutions)
-**
+# Silver Level Contests (C++ Solutions)
+
 bovine_genomics.cpp
 
 breed_counting.cpp
